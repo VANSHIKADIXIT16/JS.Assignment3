@@ -15,7 +15,7 @@ Student Result Management System in Java using Exception Handling
 
 **Assignment – 3 (Unit 3)**  
 **Total Marks:** 10  
-**Submission Date:** 15 November, 2025  
+**Submission Date:** 16 November, 2025  
 
 **Student Name:** Vanshika Dixit  
 **Roll Number:** 2401010010  
