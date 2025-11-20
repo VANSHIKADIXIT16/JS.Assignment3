@@ -11,7 +11,7 @@ Student Result Management System in Java using Exception Handling
 **Semester:** III  
 **Course Code:** —  
 **Course Name:** Java Programming  
-**Faculty:** Lucky Kumar  
+**Faculty:** Lucky Verma   
 
 **Assignment – 3 (Unit 3)**  
 **Total Marks:** 10  
